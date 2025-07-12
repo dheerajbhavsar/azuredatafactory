@@ -1,0 +1,13 @@
+{
+	"name": "abbaisdatabricksls",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-4370495118862414.14.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/2e7ddeb1-6d69-4c52-9c0e-2cc9a016061c/resourceGroups/abb-ais-ade-cin-rg/providers/Microsoft.Databricks/workspaces/abbaisdbws001",
+			"existingClusterId": "0704-075814-148lx0ou"
+		}
+	}
+}
