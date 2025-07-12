@@ -1,0 +1,10 @@
+{
+	"name": "abbaisadeadslv2002ls",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://abbaisadeadslv2002.dfs.core.windows.net/"
+		}
+	}
+}
