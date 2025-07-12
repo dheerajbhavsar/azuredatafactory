@@ -1,0 +1,9 @@
+{
+	"name": "abbaisadeadf001",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3b621057-314a-4500-895a-eedf1f53adfa",
+		"tenantId": "372ee9e0-9ce0-4033-a64a-c07073a91ecd"
+	}
+}
