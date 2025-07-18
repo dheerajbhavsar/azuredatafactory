@@ -1,0 +1,19 @@
+{
+	"name": "CountryParquet",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "abbaisadeadslv2002ls",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileSystem": "raw"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	}
+}
